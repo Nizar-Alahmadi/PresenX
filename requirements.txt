@@ -1,0 +1,10 @@
+opencv-python
+numpy
+face-recognition
+ttkbootstrap
+pandas
+matplotlib
+pystray
+openvino
+Pillow
+sqlite3

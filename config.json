@@ -1,0 +1,6 @@
+{
+    "detection_confidence": 0.1,
+    "inactive_threshold": 0.0,
+    "cosine_similarity_cutoff": 0.9,
+    "camera_index": 0
+}

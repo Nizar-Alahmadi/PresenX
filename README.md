@@ -12,6 +12,6 @@ PresenX is a smart facial recognition-based attendance and monitoring applicatio
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/PresenX.git
+git clone https://github.com/Nizar-Alahmadi/PresenX.git
 cd PresenX
 pip install -r requirements.txt
